@@ -4,9 +4,8 @@
 # Makefile options
 help:
 	@echo "Makefile run options:"
-	@echo "inistall	-"
-	@echo ""
-	@echo "clean	-"
+	@echo "install	- install micromamba and corresponding streamlit mamba env"
+	@echo "clean	- remove micromamba installation, caches, env, and pakages"
 
 
 # Install micromamba

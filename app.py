@@ -10,8 +10,8 @@ st.markdown(''' Welcome to NAGA, a web based application for running
             [Flye](https://github.com/mikolmogorov/Flye) 
             and [MAFFT](https://mafft.cbrc.jp/alignment/server/index.html) of PCR amplified reads based reads.
             This tool was developed for the [Sulentic Lab](https://people.wright.edu/courtney.sulentic). 
-            For questions and feature requests, please reach out to Clayton Allex-Buckner (callexbuckner@gmail) for any questions or feature
-            requests. Happy assembling!''')
+            For questions and feature requests, please reach out to Clayton Allex-Buckner (callexbuckner@gmail). 
+            Happy assembling!''')
 
 st.divider()
 
